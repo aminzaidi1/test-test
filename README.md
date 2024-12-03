@@ -41,7 +41,7 @@ The project's second phase saw a major optimization of the backend logic. Implem
 
 ### HTML & CSS Enhancements
 
-Throughout the project, there were numerous revisions made to the dashboard's HTML and CSS components. Relocating components like the map, search bar, and logo to make the layout cleaner was one of the initial improvements. As the project developed, the dashboard's look was updated with a comprehensive **UI redesign**. The dashboard now works flawlessly on all devices thanks to the redesign's incorporation of responsive design principles. Hover effects and error warnings are examples of intuitive visual feedback that was added to improve engagement and assist users.
+Throughout the project, there were numerous revisions made to the dashboard's HTML and CSS components. Relocating components like the map, search bar, and logo to make the layout cleaner was one of the initial improvements. As the project developed, the dashboard's look was updated with a comprehensive **UI redesign**. The dashboard now works flawlessly on all devices thanks to the redesign's incorporation of responsive design principles.
 
 ---
 
