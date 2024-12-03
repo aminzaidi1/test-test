@@ -68,6 +68,10 @@ The backend improvements were pivotal in enhancing the dashboard’s performance
 ## Final Solution/Prototype
 
 The final version of the dashboard is a culmination of iterative improvements made throughout the project. It features a modernized UI, responsive design, and advanced filtering capabilities. The introduction of general categories and synchronized filters has significantly enhanced usability, while backend optimizations ensure faster performance and dynamic updates. Screenshots showcasing the before-and-after differences illustrate the dramatic transformation of the dashboard.
+![Old Dashboard](old-dashboard.png)
+
+![Updated Dashboard](new-dashboard.png)
+
 
 ---
 
