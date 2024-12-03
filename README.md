@@ -27,7 +27,9 @@ The **Social Determinants of Health (SDoH) Dashboard Improvement Project** was i
 
 The dashboard's initial evaluation identified a number of problems, such as erratic user interface elements, slow response, and an ineffective filtering method. These results were recorded in a PowerPoint presentation that described the problems and suggested fixes. In order to resolve these problems and guarantee an organized approach to the redesign process, a **swimlane diagram** was made to outline the designated duties and responsibilities of each participant.
 
-The following responsibilities were given to contributors in order to represent important areas: **Quality Assurance (QA)**, **Development (Dev)**, **User Experience (UX)**, and **Project Manager (PM)**. The project manager concentrated on establishing the project's parameters, getting input from stakeholders, and making sure accessibility guidelines were followed. A UX contributor collected user input, examined the existing user interface, and suggested design enhancements. While the QA specialist made sure the new features were accurate and functioning, the developer performed structural improvements and implemented code updates.
+The following responsibilities were given to contributors in order to represent important areas: **Quality Assurance (QA)**, **Development (Dev)**, **User Experience (UX)**, and **Project Manager (PM)**.
+
+![Swim Diagram](swim-lane.jpg)
 
 In order to produce a more user-friendly layout, the first changes were concentrated on **moving the map** and **repositioning elements** like the search bar and logo. The goal of these modifications was to enhance the dashboard's responsiveness and usability without making major structural alterations. Deeper feature improvements were postponed until later in the project, even though these changes fixed certain usability problems.
 
