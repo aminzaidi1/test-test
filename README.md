@@ -29,7 +29,7 @@ The dashboard's initial evaluation identified a number of problems, such as erra
 
 The following responsibilities were given to contributors in order to represent important areas: **Quality Assurance (QA)**, **Development (Dev)**, **User Experience (UX)**, and **Project Manager (PM)**.
 
-![Swim Diagram](swim-lane.jpg)
+![Swim Diagram](swim-lane.jpeg)
 
 In order to produce a more user-friendly layout, the first changes were concentrated on **moving the map** and **repositioning elements** like the search bar and logo. The goal of these modifications was to enhance the dashboard's responsiveness and usability without making major structural alterations. Deeper feature improvements were postponed until later in the project, even though these changes fixed certain usability problems.
 
@@ -80,7 +80,7 @@ Iterative changes made during the process culminated in the dashboard's final ve
 
 ## Test Plan and Results
 
-To verify its usability, accessibility, and functioning, the dashboard was put through thorough testing. The accuracy of features including resource presentation, map integration, and category filtering was validated by functional testing. While ADA compliance testing made sure the dashboard complied with accessibility guidelines, usability testing revealed enhancements in performance and navigation. The findings showed that on every important statistic, the updated dashboard performed better than the original.
+To verify its usability, accessibility, and functionality, the dashboard underwent thorough testing. The results of functional testing, usability testing, and ADA compliance testing demonstrated that the updated dashboard outperformed the original across all key metrics. 
 
 ---
 
